@@ -34,20 +34,73 @@
   </div>
 
   <div class="container">
+
+    <div class="row">
+      <div id="root"></div>
+    </div>
+
     <div class="row">
       <div class="col-2"></div>
       <div class="col-8">
+
         <h1 class="display-1" id="mainTitle">Andy Cary</h1>
-        <h3 class="display-4">Full-Stack Developer</h3>
+        <h3 class="display-5">Full-Stack Developer</h3>
 
         <div class="card">
           <div class="card-body">
-            <h3>About Me</h3>
+            <h3>Core Java</h3>
 
             <div class="overview">
-              <p>Andy Cary is a web developer with experience building full-stack web applications with Java, JavaScript, SQL and NoSQL databases.</p>
+              <blockquote></blockquote>
 
-              <p>He earned his Master of Science in Engineering from The University of Texas at Austin and his Bachelor of Science, Information Science from The University of North Carolina at Chapel Hill.</p>
+              <p><strong>Object-Oriented Fundamentals of Programming</strong></p>
+
+              <p></p>
+            </div>
+            <div class="like_button_container" data-commentid="1"></div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-body">
+            <h3>User Interface</h3>
+
+            <div class="overview">
+              <blockquote></blockquote>
+
+              <p><strong>Simplifying User Communication</strong></p>
+
+              <p></p>
+            </div>
+            <div class="like_button_container" data-commentid="1"></div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-body">
+            <h3>Cloud Native</h3>
+
+            <div class="overview">
+              <blockquote></blockquote>
+
+              <p><strong>Scalability with Reliability</strong></p>
+
+              <p></p>
+            </div>
+            <div class="like_button_container" data-commentid="1"></div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-body">
+            <h3>Cryptography</h3>
+
+            <div class="overview">
+              <blockquote></blockquote>
+
+              <p><strong>Smart Contracts and Secure Transactions</strong></p>
+
+              <p></p>
             </div>
             <div class="like_button_container" data-commentid="1"></div>
           </div>
@@ -61,7 +114,7 @@
           <div class="card-body">
             <h5 class="card-title">Blackjack</h5>
             <p class="card-text">This application is a single-player game of Blackjack.</p>
-             <div class="like_button_container" data-commentid="2"></div>
+             <div class="like_button_container" data-commentid="3"></div>
           </div>
           <ul class="list-group list-group-flush">
             <!-- <li class="list-group-item">Cras justo odio</li> -->
@@ -71,6 +124,62 @@
           </div>
         </div>
         <br />
+
+        <div class="card">
+          <div class="card-body">
+            <h3>About Andy</h3>
+
+            <div class="overview">
+              <blockquote>Andy Cary is a Web Developer studying Full Stack Development with Java at Skill Distillery.</blockquote>
+
+              <p>He earned his Master of Science in Engineering from The University of Texas at Austin and his Bachelor of Science, Information Science from The University of North Carolina at Chapel Hill. He is a U.S. Army Veteran.</p>
+            </div>
+            <div class="like_button_container" data-commentid="2"></div>
+          </div>
+        </div>
+
+        <br />
+
+        <div class="card">
+          <div class="card-body">
+            <ul class="list-unstyled">
+              <li class="media">
+                <img class="mr-3 my-2" src="images/space_world.jpg" style="height: 50px;" alt="Story One">
+                <div class="media-body">
+                  <h5 class="mt-0 mb-1">
+                    <div class="unlock_button_container" data-lockid="1"></div>
+                    Backend: Functional Services with Java, MySQL, and Spring</h5>
+                </div>
+              </li>
+              <li class="media my-4">
+                <img class="mr-3 my-2" src="images/space_world.jpg" style="height: 50px;" alt="Story Two">
+                <div class="media-body">
+                  <h5 class="mt-0 mb-1">
+                    <div class="unlock_button_container" data-lockid="2"></div>
+                    Frontend: Interactive and Responsive User Interfaces</h5>
+                </div>
+              </li>
+              <li class="media">
+                <img class="mr-3 my-2" src="images/space_world.jpg" style="height: 50px;" alt="Story Three">
+                <div class="media-body">
+                  <h5 class="mt-0 mb-1">
+                    <div class="unlock_button_container" data-lockid="3"></div>
+                    Cloud Infrastructure: Reliability, Maintainability, Scalability</h5>
+                </div>
+              </li>
+              <li class="media">
+                <img class="mr-3 my-2" src="images/space_world.jpg" style="height: 50px;" alt="Story Three">
+                <div class="media-body">
+                  <h5 class="mt-0 mb-1">
+                    <div class="unlock_button_container" data-lockid="4"></div> Blockchain: Cryptographic Engineering</h5>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+        <br />
+
       </div>
       <div class="col-2">
       </div>
@@ -86,6 +195,8 @@
         <footer class="blockquote-footer"><cite title="Source Title">Edsger W.Dijkstra</cite></footer>
       </blockquote>
     </div>
+    <div class="row">
+    </div>
   </div>
 
   <!-- Bootstrap -->
@@ -94,6 +205,7 @@
   <script src="https://unpkg.com/react@17/umd/react.production.min.js" crossorigin></script>
   <script src="https://unpkg.com/react-dom@17/umd/react-dom.production.min.js" crossorigin></script>
   <script src="./components/like_button.js"></script>
+  <script src="./components/unlock_button.js"></script>
 </body>
 
 </html>
