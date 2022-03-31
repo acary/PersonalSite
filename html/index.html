@@ -36,15 +36,27 @@
   <div class="container">
 
     <div class="row">
-      <div id="root"></div>
-    </div>
-
-    <div class="row">
       <div class="col-2"></div>
       <div class="col-8">
 
         <h1 class="display-1" id="mainTitle">Andy Cary</h1>
-        <h3 class="display-5">Full-Stack Developer</h3>
+        <h3 class="display-6">Full-Stack Developer</h3>
+        <div class="root" data-pageid="1"></div>
+
+        <div class="card">
+          <div class="card-body">
+            <h3>About</h3>
+
+            <div class="overview">
+              <blockquote>Andy Cary is a Web Developer studying Full Stack Development with Java at Skill Distillery.</blockquote>
+
+              <p>He earned his Master of Science in Engineering from The University of Texas at Austin and his Bachelor of Science, Information Science from The University of North Carolina at Chapel Hill. He is a U.S. Army Veteran.</p>
+            </div>
+            <div class="like_button_container" data-commentid="2"></div>
+          </div>
+        </div>
+
+        <br />
 
         <div class="card">
           <div class="card-body">
@@ -76,7 +88,7 @@
           </div>
         </div>
 
-        <div class="card">
+        <!-- <div class="card">
           <div class="card-body">
             <h3>Cloud Native</h3>
 
@@ -89,9 +101,9 @@
             </div>
             <div class="like_button_container" data-commentid="1"></div>
           </div>
-        </div>
+        </div> -->
 
-        <div class="card">
+        <!-- <div class="card">
           <div class="card-body">
             <h3>Cryptography</h3>
 
@@ -104,7 +116,7 @@
             </div>
             <div class="like_button_container" data-commentid="1"></div>
           </div>
-        </div>
+        </div> -->
 
         <br />
         <h3>Portfolio</h3>
@@ -121,20 +133,6 @@
           </ul>
           <div class="card-body">
             <a href="https://github.com/acary/BlackjackProject" target="_blank" class="card-link">Github</a>
-          </div>
-        </div>
-        <br />
-
-        <div class="card">
-          <div class="card-body">
-            <h3>About Andy</h3>
-
-            <div class="overview">
-              <blockquote>Andy Cary is a Web Developer studying Full Stack Development with Java at Skill Distillery.</blockquote>
-
-              <p>He earned his Master of Science in Engineering from The University of Texas at Austin and his Bachelor of Science, Information Science from The University of North Carolina at Chapel Hill. He is a U.S. Army Veteran.</p>
-            </div>
-            <div class="like_button_container" data-commentid="2"></div>
           </div>
         </div>
 
@@ -159,21 +157,21 @@
                     Frontend: Interactive and Responsive User Interfaces</h5>
                 </div>
               </li>
-              <li class="media">
+              <!-- <li class="media">
                 <img class="mr-3 my-2" src="images/space_world.jpg" style="height: 50px;" alt="Story Three">
                 <div class="media-body">
                   <h5 class="mt-0 mb-1">
                     <div class="unlock_button_container" data-lockid="3"></div>
                     Cloud Infrastructure: Reliability, Maintainability, Scalability</h5>
                 </div>
-              </li>
-              <li class="media">
+              </li> -->
+              <!-- <li class="media">
                 <img class="mr-3 my-2" src="images/space_world.jpg" style="height: 50px;" alt="Story Three">
                 <div class="media-body">
                   <h5 class="mt-0 mb-1">
                     <div class="unlock_button_container" data-lockid="4"></div> Blockchain: Cryptographic Engineering</h5>
                 </div>
-              </li>
+              </li> -->
             </ul>
           </div>
         </div>
@@ -206,6 +204,7 @@
   <script src="https://unpkg.com/react-dom@17/umd/react-dom.production.min.js" crossorigin></script>
   <script src="./components/like_button.js"></script>
   <script src="./components/unlock_button.js"></script>
+  <script src="./components/App.js"></script>
 </body>
 
 </html>
