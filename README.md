@@ -2,22 +2,22 @@
 
 ## Hi there, I'm [Andy Cary][instagram] 👋
 
-[![Website](https://img.shields.io/website?label=andycary.com&style=for-the-badge&url=https%3A%2F%2Fandycarypro.com)](https://andycarypro.com)
+[![Website](https://img.shields.io/website?label=andycarypro.com&style=for-the-badge&url=https%3A%2F%2Fandycarypro.com)](https://andycarypro.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/andycary?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Facary&screen_name=andycary)
 
 ### I am a Software Developer
 
-🔭 Check out my portfolio: [AndyCaryPro.com](http://andycarypro.com/)
-🌱 I’m currently learning Full Stack Development with Java at Skill Distillery
-👯 I’m looking to collaborate with others in the industry
-🥅 2022 Goals: Advance as a Full Stack Developer, explore Blockchain Engineering
-⚡ Fun fact: I love to play drums 🥁 photography 📸 and video 🎥
-😻 I minted an NFT: [Peel Indestructible](https://opensea.io/assets/0xd07dc4262bcdbf85190c01c996b4c06a461d2430/309004)
+- 🔭 Check out my portfolio: [AndyCaryPro.com](http://andycarypro.com/)
+- 🌱 I’m currently learning Full Stack Development with Java at Skill Distillery
+- 👯 I’m looking to collaborate with others in the industry
+- 🥅 2022 Goals: Advance as a Full Stack Developer, explore Blockchain Engineering
+- ⚡ Fun fact: I love to play drums 🥁 photography 📸 and video 🎥
+- 😻 I minted an NFT: [Peel Indestructible](https://opensea.io/assets/0xd07dc4262bcdbf85190c01c996b4c06a461d2430/309004)
 
 #### Connect with me:
 
-💼 [LinkedIn](https://www.linkedin.com/in/andrewdcary/)
-🐦 [@andycary](https://twitter.com/andycary)
+- 💼 [LinkedIn](https://www.linkedin.com/in/andrewdcary/)
+- 🐦 [@andycary](https://twitter.com/andycary)
 &nbsp;&nbsp;
 
 #### Languages and Tools:
