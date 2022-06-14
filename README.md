@@ -1,24 +1,25 @@
-## Hi there, I'm [Andy Cary][instagram] 👋
+# Hi there, I'm [Andy Cary][instagram] 👋
 
+[![Website](https://img.shields.io/website?label=andycary.com&style=for-the-badge&url=https%3A%2F%2Fandycary.com)](https://andycary.com)
 [![Website](https://img.shields.io/website?label=andycarypro.com&style=for-the-badge&url=http%3A%2F%2Fandycarypro.com)](http://andycarypro.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/andycary?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Facary&screen_name=andycary)
 
-### I am a Software Developer
+## I am a Software Developer
 
-- 🔭 Check out my portfolio: [AndyCaryPro.com](http://andycarypro.com/)
+- 🔭 Check out my portfolio: [AndyCary.com][website] | [AndyCaryPro.com](http://andycarypro.com/)
 - 🌱 I’m recently completed Full Stack Development with Java at Skill Distillery
 - 👯 I’m looking to collaborate with others in the industry
 - 🥅 2022 Goals: Advance as an Angular-focused Full Stack Developer
 - ⚡ Fun fact: I love to play drums 🥁 photography 📸 and video 🎥
 - 😻 I minted an NFT: [Peel Indestructible](https://opensea.io/assets/0xd07dc4262bcdbf85190c01c996b4c06a461d2430/309004)
 
-#### Connect with me:
+### Connect with me:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/andrewdcary/)
 - 🐦 [@andycary](https://twitter.com/andycary)
 &nbsp;&nbsp;
 
-#### Languages and Tools:
+### Languages and Tools:
 
 <img align="left" alt="Angular" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="padding-right:10px;" />
@@ -39,6 +40,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- 🌱 [SkillGuild - Video Presentation and Demo](https://youtu.be/HjufQ-4gZLs)
 <!-- YOUTUBE:END -->
 
 ---
@@ -51,6 +53,7 @@
 ---
 
 [website]: https://andycary.com
+[portfolio]: http://andycarypro.com
 [github]: https://github.com/acary
 [twitter]: https://twitter.com/andycary
 [youtube]: https://www.youtube.com/channel/UCMDreWAdYFBu_Vge-rKbzbA
